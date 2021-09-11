@@ -1,0 +1,2 @@
+This file is very important for this project.
+As, all the scores of players will get stored here.
